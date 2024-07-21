@@ -1,0 +1,15 @@
+# 忽略API密钥文件
+config/config.yaml
+
+# 忽略日志文件
+logs/
+data/logs/
+
+# 忽略原始数据文件
+data/raw/
+
+# 忽略虚拟环境文件夹
+stock_price_model/
+
+# 忽略环境变量文件
+.env
